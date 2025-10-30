@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://www.dick-tator.cz/sitemap.xml
+Sitemap: https://asflooringottawa.ca/sitemap.xml
